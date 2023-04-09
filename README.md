@@ -1,1 +1,1 @@
-# asr_utils
+# Few helpful codes for mangaing experiments with various asr toolkits.
